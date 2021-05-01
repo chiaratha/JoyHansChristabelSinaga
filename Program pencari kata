@@ -3,3 +3,4 @@
 using namespace std;
 
 //Omni-Variable:
+char Atas_Bawah[15]={
